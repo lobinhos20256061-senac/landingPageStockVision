@@ -123,9 +123,8 @@ p {
     padding-bottom: 56.25%;
     height: 0;
     overflow: hidden;
-    
     border-radius: 8px;
-    margin-bottom: 5px;
+    margin-bottom: -150px;
 }
 
 .video-container iframe {
